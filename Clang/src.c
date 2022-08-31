@@ -41,4 +41,7 @@ void main()
         }
         count++;
     }
+ 
+    printf("Acronym String is : \"%s\"\n", buffer2);
+ 
 }
