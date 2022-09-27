@@ -1,0 +1,10 @@
+D:\choiseungho\0927\bin\Debug\0927.exe.config
+D:\choiseungho\0927\bin\Debug\0927.exe
+D:\choiseungho\0927\bin\Debug\0927.pdb
+D:\choiseungho\0927\obj\Debug\0927.csproj.AssemblyReference.cache
+D:\choiseungho\0927\obj\Debug\_0927.Form1.resources
+D:\choiseungho\0927\obj\Debug\_0927.Properties.Resources.resources
+D:\choiseungho\0927\obj\Debug\0927.csproj.GenerateResource.cache
+D:\choiseungho\0927\obj\Debug\0927.csproj.CoreCompileInputs.cache
+D:\choiseungho\0927\obj\Debug\0927.exe
+D:\choiseungho\0927\obj\Debug\0927.pdb
