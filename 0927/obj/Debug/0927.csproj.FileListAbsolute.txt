@@ -8,3 +8,6 @@ D:\choiseungho\0927\obj\Debug\0927.csproj.GenerateResource.cache
 D:\choiseungho\0927\obj\Debug\0927.csproj.CoreCompileInputs.cache
 D:\choiseungho\0927\obj\Debug\0927.exe
 D:\choiseungho\0927\obj\Debug\0927.pdb
+D:\choiseungho\0927\obj\Debug\_0927.Form2.resources
+D:\choiseungho\0927\obj\Debug\_0927.Form3.resources
+D:\choiseungho\0927\obj\Debug\_0927.Form4.resources

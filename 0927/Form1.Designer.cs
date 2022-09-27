@@ -36,6 +36,8 @@ namespace _0927
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -68,7 +70,7 @@ namespace _0927
             // textBox3
             // 
             this.textBox3.Font = new System.Drawing.Font("굴림", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox3.Location = new System.Drawing.Point(480, 187);
+            this.textBox3.Location = new System.Drawing.Point(496, 187);
             this.textBox3.Multiline = true;
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(385, 332);
@@ -77,7 +79,7 @@ namespace _0927
             // textBox4
             // 
             this.textBox4.Font = new System.Drawing.Font("굴림", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox4.Location = new System.Drawing.Point(966, 187);
+            this.textBox4.Location = new System.Drawing.Point(980, 187);
             this.textBox4.Multiline = true;
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(357, 332);
@@ -100,15 +102,37 @@ namespace _0927
             this.label2.Font = new System.Drawing.Font("굴림", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.label2.Location = new System.Drawing.Point(83, 135);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(920, 21);
+            this.label2.Size = new System.Drawing.Size(308, 21);
             this.label2.TabIndex = 6;
-            this.label2.Text = "3으로 나누어 나머지 0들의 합 3으로 나누어 나머지 1들의 합 3으로 나누어 나머지 2들의 합";
+            this.label2.Text = "3으로 나누어 나머지 0들의 합";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("굴림", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.label3.Location = new System.Drawing.Point(535, 135);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(308, 21);
+            this.label3.TabIndex = 7;
+            this.label3.Text = "3으로 나누어 나머지 1들의 합";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("굴림", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.label4.Location = new System.Drawing.Point(1003, 135);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(308, 21);
+            this.label4.TabIndex = 8;
+            this.label4.Text = "3으로 나누어 나머지 2들의 합";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1419, 619);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textBox4);
@@ -132,6 +156,8 @@ namespace _0927
         private System.Windows.Forms.TextBox textBox4;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label4;
     }
 }
 
