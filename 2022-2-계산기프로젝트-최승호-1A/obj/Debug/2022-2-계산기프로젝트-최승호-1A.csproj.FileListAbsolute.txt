@@ -1,0 +1,10 @@
+D:\choiseungho\2022-2-계산기프로젝트-최승호-1A\bin\Debug\2022-2-계산기프로젝트-최승호-1A.exe.config
+D:\choiseungho\2022-2-계산기프로젝트-최승호-1A\bin\Debug\2022-2-계산기프로젝트-최승호-1A.exe
+D:\choiseungho\2022-2-계산기프로젝트-최승호-1A\bin\Debug\2022-2-계산기프로젝트-최승호-1A.pdb
+D:\choiseungho\2022-2-계산기프로젝트-최승호-1A\obj\Debug\2022-2-계산기프로젝트-최승호-1A.csproj.AssemblyReference.cache
+D:\choiseungho\2022-2-계산기프로젝트-최승호-1A\obj\Debug\_2022_2_계산기프로젝트_최승호_1A.Form1.resources
+D:\choiseungho\2022-2-계산기프로젝트-최승호-1A\obj\Debug\_2022_2_계산기프로젝트_최승호_1A.Properties.Resources.resources
+D:\choiseungho\2022-2-계산기프로젝트-최승호-1A\obj\Debug\2022-2-계산기프로젝트-최승호-1A.csproj.GenerateResource.cache
+D:\choiseungho\2022-2-계산기프로젝트-최승호-1A\obj\Debug\2022-2-계산기프로젝트-최승호-1A.csproj.CoreCompileInputs.cache
+D:\choiseungho\2022-2-계산기프로젝트-최승호-1A\obj\Debug\2022-2-계산기프로젝트-최승호-1A.exe
+D:\choiseungho\2022-2-계산기프로젝트-최승호-1A\obj\Debug\2022-2-계산기프로젝트-최승호-1A.pdb
